@@ -9,7 +9,7 @@
 - React.js
 
 
-- ## Languages and Tools
+## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +35,7 @@
 - **[Progpath - Frontend](https://github.com/aifa00/progpath-client)**: The frontend of Progpath is built with React.js and Redux, offering users an intuitive interface for project management
 
 
-  ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/aifap)
+## Get in Touch
+[LinkedIn](https://www.linkedin.com/in/aifap)
 
 
